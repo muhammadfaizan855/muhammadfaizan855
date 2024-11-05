@@ -1,17 +1,21 @@
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A Passionate Mern Stack Developer From Pakistan</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" >
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfaizan855&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfaizan855" /> </p>
 
 - 🌱 I’m currently learning **React Native**
-
+- 🔭 I’m working **on my skills for now.**
 - 📫 How to reach me **faizanhanif560@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammadfaizan855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfaizan855" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammadfaizan855/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<p align="center">
+  <img align="right" width="370"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding gif" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
